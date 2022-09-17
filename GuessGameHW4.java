@@ -32,7 +32,7 @@ class GuessGameHW4 {
             if (number != guess) {
                 System.out.println("You lose.");
             }
-            System.out.print("Repeat game? Yes - Y, No - N: ");
+            System.out.print("Repeat game? Yes - 1, No - 0: ");
         } while (scanner.nextInt() == 1);
     }
 }
