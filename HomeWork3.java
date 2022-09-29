@@ -1,3 +1,10 @@
+/**
+ *Java Basic, Home Work #3
+ *
+ * @author Mykola Sheremet
+ * @todo 12.9.2022
+ * @date 30.9.2022
+ */
 class HomeWork3 {
     public static void main(String[] args) {
         //task 1
