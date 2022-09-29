@@ -9,9 +9,9 @@ class JavaBasic2HW {
 	public static void main(String[] args) {
         // task 1
         System.out.println(checkWeather(-3));
-        System.out.println(checkWeather(5));
-        System.out.println(checkWeather(20));
-        System.out.println(checkWeather(30));
+        System.out.println(checkWeather(7));
+        System.out.println(checkWeather(23));
+        System.out.println(checkWeather(33));
 
         //task 2
         System.out.println(canWalk(true, true)? "I can walk" : "I cannot walk");
