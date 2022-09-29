@@ -8,7 +8,7 @@
 class JavaBasic2HW {
 	public static void main(String[] args) {
         // task 1
-        System.out.println(checkWeather(-5));
+        System.out.println(checkWeather(-3));
         System.out.println(checkWeather(5));
         System.out.println(checkWeather(20));
         System.out.println(checkWeather(30));
@@ -31,9 +31,9 @@ class JavaBasic2HW {
     static String checkWeather(int temperature) {
         if (temperature < 0) {
             return "It's frost";
-        } else if (temperature <= 10) {
+        } else if (temperature <= 8) {
             return "It's cold";
-        } else if (temperature <= 28) {
+        } else if (temperature <= 27) {
             return "It's warm";
         } else {
             return "It's hot";
