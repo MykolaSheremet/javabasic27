@@ -3,7 +3,7 @@
  *
  * @author Mykola Sheremet
  * @todo 28.09.2022
- * @done 30.09.2022
+ * @done 04.10.2022
  */
 public class JavaBasic8HomeWork {
     public static void main(String[] args) {
