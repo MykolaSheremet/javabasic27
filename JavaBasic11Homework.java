@@ -59,8 +59,8 @@ public class JavaBasic11Homework extends JFrame {
 
 //        addKeyListener(new KeyAdapter() {
 //            @Override
-//            public void keyReleased(KeyEvent e) {
-//                super.keyReleased(e);
+//            public void keyReleased(KeyEvent event) {
+//                super.keyReleased(event);
 //                System.out.println(event);
 //                switch (event.getKeycode()) ;
 //                    case 32:
